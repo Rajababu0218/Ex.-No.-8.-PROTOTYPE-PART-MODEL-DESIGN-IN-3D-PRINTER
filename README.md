@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2024-12-30 105023](https://github.com/user-attachments/assets/e3978675-b971-45bd-82bd-55f021f1bdbb)
 
 ### Name: Pralayakaveri Raja
 ### Register Number: 24009721
